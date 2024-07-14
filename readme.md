@@ -11,5 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - GitHub
 - GitHub Pages
 
-## Projeto
 
